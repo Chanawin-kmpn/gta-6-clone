@@ -7,6 +7,7 @@ import FirstVideo from "./section/FirstVideo";
 import Jason from "./section/Jason";
 import SecondVideo from "./section/SecondVideo";
 import Lucia from "./section/Lucia";
+import PostCard from "./section/Postcard";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -19,6 +20,7 @@ const App = () => {
 			<Jason />
 			<SecondVideo />
 			<Lucia />
+			<PostCard />
 		</main>
 	);
 };
