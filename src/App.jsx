@@ -9,7 +9,7 @@ import SecondVideo from "./section/SecondVideo";
 import Lucia from "./section/Lucia";
 import Final from "./section/Final";
 import Outro from "./section/Outro";
-import PostCard from "./section/Postcard";
+import PostCard from "./section/PostCard";
 
 gsap.registerPlugin(ScrollTrigger);
 
